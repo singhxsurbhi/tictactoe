@@ -1,3 +1,3 @@
 # tictactoe
 
-This is a simple tictactoe game created using Html, CSS and Javascript
+This is a simple tic-tac-toe game created using Html, CSS and Javascript
